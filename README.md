@@ -7,7 +7,7 @@ Incluye decisiones arquitectónicas, diagramas C4, justificación de tecnología
 
 ## 📂 Contenido
 
-[![Ver PDF](https://img.shields.io/badge/📄_Ver%20Propuesta-PDF-blue)](./Solución%20Ejercicio%20Técnico%20-%20Arquitecto%20BP.pdf)
+[![Ver PDF](https://img.shields.io/badge/📄_Ver%20Propuesta-PDF-blue)](./Solucio%CC%81n%20Ejercicio%20Te%CC%81cnico%20-%20Arquitecto%20BP.pdf)
 
 ---
 
